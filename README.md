@@ -1,2 +1,2 @@
 # Clinipet-Project
-Google Big Query ELT Project
+Google Big Query ETL Project
